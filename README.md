@@ -5,4 +5,4 @@
 
 打开编译器Preferences->Plugins->Installed，查看已安装的插件，试着去禁用下载的与flutter无关的插件，然后重启运行。
 本人禁用的是Matlab Support插件。
-[<img src="https://github.com/271285136/image/blob/master/1.png?raw=true">]
+<img src="https://github.com/271285136/image/blob/master/1.png?raw=true">
